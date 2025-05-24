@@ -1,3 +1,4 @@
 examples*
 UniDet_eval/experts/expert_weights*
+.vscode*
 **/__pycache__
